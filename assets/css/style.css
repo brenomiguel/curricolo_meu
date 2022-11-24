@@ -285,7 +285,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/portfolio/sub-pcgamer-setupgamer.webp") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -1233,4 +1233,8 @@ section {
 }
 .d-block w-100{
   width: 50%;
+}
+.btn-btn-segundary{
+  background-color:#daa520;
+
 }
